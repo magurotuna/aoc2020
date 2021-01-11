@@ -1,1 +1,1 @@
-let () = D1.exec2 ()
+let () = D2.part2 ()
