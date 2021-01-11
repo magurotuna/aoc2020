@@ -1,1 +1,1 @@
-let () = print_endline "Hello, World!"
+let () = D1.exec2 ()

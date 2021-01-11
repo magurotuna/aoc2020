@@ -1,2 +1,3 @@
 (executable
- (name aoc2020))
+ (name aoc2020)
+ (libraries base stdio))
