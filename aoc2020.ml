@@ -1,1 +1,1 @@
-let () = D6.part2 ()
+let () = D7.part2 ()
